@@ -8,4 +8,3 @@ random_numbers:
 clean:
 	rm -f output/*.rds && rm -f report.html
 	
-  
